@@ -1,7 +1,6 @@
-# Dasloftderunentlichenlichter
+## Dasloftderunentlichenlichter
 
-Das Loft
-
+## Das Loft
 
 Das Loft is an application aimed at making Das Loft more interactive with RGB Leds.
 the application is developed for Arduini platforms.
@@ -12,12 +11,12 @@ This GitHub Depository is home to the Arduino version of Das Loft, the other ver
 
 
 
-Built With
+## Built With
 [Arduino] - The app framework used
 
 
 
-Authors
+## Authors
 Xandor Naus - Initial work -
 
 See also the list of contributors who participated in this project.
